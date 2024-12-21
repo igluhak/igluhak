@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning c++ css html 
 - 🌱 I’m currently learning c++ html css
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 📫 How to reach me igluhak@vub.hr , ig: ivan_gluhak
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 
